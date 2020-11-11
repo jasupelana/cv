@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  text-align: center;
+  align-items: center;
+}
+
+h1 {
+  line-height: 2;
+  color: #66BFBF;
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  font-family: 'Homemade Apple', cursive;
+}
+
+h2 {
+  color: #11999E;
+  font-size: 40px;
+  font-weight: lighter;
+
+}
+
+h3 {
+  font-size: 32px;
+  color: #11999E;
+  font-family: 'Rasa', serif;
+}
+
+p {
+  font-size: 22px;
+}
+
+.tables {
+  margin: auto;
+}
+
+.the-skills {
+  text-align: left;
+  width: 50%;
+  margin: 100px auto 100px;
+  line-height: 2;
+}
+
+.computer {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chillies {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.eatingdiv {
+  text-align: right;
+}
+
+.top-container {
+  background-color: #ff9a8c;
+  padding-top: 100px;
+  position: relative;
+}
+
+
+.bottom-container {
+  background-color: #ff9a8c;
+  padding: 50px;
+margin-top:70px;
+
+}
+.footer-link{
+  font-family: 'Rasa', serif;
+  text-decoration: none;
+  font-size: 30px;
+  margin: 20px;
+  color: #11999E;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 25px;
+}
+.web {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 55px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+hr {
+  border-top: 10px dotted;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  width: 5%;
+  color: #EAF6F6;
+  margin: 32px auto 32px auto;
+}
+
+.BUTTON_KUE {
+   background: #FF9A8C;
+   background-image: -webkit-linear-gradient(top, #FF9A8C, #E5A096);
+   background-image: -moz-linear-gradient(top, #FF9A8C, #E5A096);
+   background-image: -ms-linear-gradient(top, #FF9A8C, #E5A096);
+   background-image: -o-linear-gradient(top, #FF9A8C, #E5A096);
+   background-image: -webkit-gradient(to bottom, #FF9A8C, #E5A096);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #87677E;
+   font-family: Open Sans;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 40px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
